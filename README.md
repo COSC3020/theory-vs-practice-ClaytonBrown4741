@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11856773&assignment_repo_type=AssignmentRepo)
 # Theory vs. Practice
 
+   **THE FOLLOWING HAVE ALL MY ANSWERS. PLEASE LET ME KNOW IF ANY OF THEM ARE
+  WRONG OR REQUIRE REVISION**
 - List 3 reasons why asymptotic analysis may be misleading with respect to
   actual performance in practice.
   **ANSWER:**
@@ -25,9 +27,6 @@
   This can lead to users making the assumption that insertion sort is only good
   to use on already sorted lists, while this is not the case.
 
-
-  **THE FOLLOWING HAVE ALL MY ANSWERS. PLEASE LET ME KNOW IF ANY OF THEM ARE
-  WRONG OR REQUIRE REVISION**
 - Suppose finding a particular element in a binary search tree with 1,000
   elements takes 5 seconds. Given what you know about the asymptotic complexity
   of search in a binary search tree, how long would you guess finding the same
